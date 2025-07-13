@@ -1,0 +1,11 @@
+export { BasePage } from './base.page';
+export { HomePage } from './home.page';
+export { SalesPortalPage } from './salePortal.page';
+export { SignInPage } from './signIn.page';
+export { CustomersPage } from './customers/customers.page';
+export { ProductsPage } from './products/products.page';
+export { Modal } from './modals/modal.page';
+export { BaseProjectPage } from './baseProject.page';
+export { OrderDetailsPage } from './orders/orderDetails.page';
+export { DeliveryPage } from './orders/delivery.page';
+export { OrdersPage } from './orders/orders.page';

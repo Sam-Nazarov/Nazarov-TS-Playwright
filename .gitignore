@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+allure-results
+allure-report
+.env
+src/.auth/user.json
+.DS_Store
+test.local.spec.ts
